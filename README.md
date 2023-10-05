@@ -1,3 +1,3 @@
-# FashionFusion Store
+# ChicStyles Store
 
-Uma loja de roupas para homens e mulheres que adoram tendências. Projeto fictício, mas que pode ser muito bem um projeto real.
+Uma boutique de moda online de roupas e acessórios para adultos que buscam produtos de alta qualidade e estilo. Projeto fictício, mas que pode ser muito bem um projeto real.
